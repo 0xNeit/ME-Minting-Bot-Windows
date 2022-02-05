@@ -19,6 +19,8 @@
     `seedPhrase` --> your phantom wallet passphrase (Careful do not share this key)
 
     `password` --> A password for your wallet
+    
+   I'll advise you create a fresh wallet from https://cointool.app/ if this is your first time
 
 ---
 4. Open CMD and go to directory
